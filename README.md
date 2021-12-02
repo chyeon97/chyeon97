@@ -7,7 +7,7 @@
 <p>
 <img src="https://img.shields.io/badge/React-4ea1d3?style=flat-square&logo=React&logoColor=darkblue"/>
 <img src="https://img.shields.io/badge/Javascript-f6ea8c?style=flat-square&logo=Javascript&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/Typescript-9baec8?style=flat-square&logo=Typescript&logoColor=blue"/>
+<!-- <img src="https://img.shields.io/badge/Typescript-9baec8?style=flat-square&logo=Typescript&logoColor=blue"/> -->
 <img src="https://img.shields.io/badge/Python-D1B6E1?style=flat-square&logo=Python&logoColor=white"/>
 </p>
 
