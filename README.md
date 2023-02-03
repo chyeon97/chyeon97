@@ -1,5 +1,4 @@
-### 👋  Hi there! I'm studying Frontend using React 🖥.  
-### I'm still looking for a job, but I'm trying to become a Frontend developer 👩🏻‍💻
+### 👋  Hi there! I'm Frontend devloper using React 🖥.
 
 ### 💪 Skills
 
