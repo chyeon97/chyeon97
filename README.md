@@ -11,5 +11,5 @@
 </p>
 
 ### 👤  Me
-<a href="https://chyeon97.github.io/"><img src="https://img.shields.io/badge/Blog-F17F42?style=flat-square&logo=github&logoColor=white"/></a>
+<!---<a href="https://chyeon97.github.io/"><img src="https://img.shields.io/badge/Blog-F17F42?style=flat-square&logo=github&logoColor=white"/></a>-->
 <a href="mailto:pcyeon07@gmail.com"><img src="https://img.shields.io/badge/Gmail-c03546?style=flat-square&logo=Gmail&logoColor=white"/></a>
