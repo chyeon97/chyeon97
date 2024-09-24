@@ -2,8 +2,7 @@
 빠르게 변화하는 프론트엔드 생태 속에서 저만의 방법으로 새로운 기술을 습득하며, 더 나은 개발자가 되기 위해 성장하고 있습니다.
 
 
-### 💪 Tech.
-#### 협업
+### 협업
 <p>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira"/>
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github"/>
