@@ -16,8 +16,8 @@
   <img src="https://img.shields.io/badge/Javascript-f6ea8c?style=flat-square&logo=Javascript&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/Typescript-9baec8?style=flat-square&logo=Typescript&logoColor=blue"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/ReduxSaga-999999?style=flat-square&logo=Redux-saga&logoColor=764ABC"/>
+<!--   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>  -->
+<!--   <img src="https://img.shields.io/badge/ReduxSaga-999999?style=flat-square&logo=Redux-saga&logoColor=764ABC"/> -->
 </p>
 
 ### 👤  Contact Me.
